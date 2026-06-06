@@ -421,7 +421,7 @@ export default function App(){
   const bg=`radial-gradient(ellipse at 25% 15%,${tc}28 0%,transparent 55%),radial-gradient(ellipse at 80% 85%,${ta}18 0%,transparent 55%),linear-gradient(160deg,${T?.b1||"#1a0612"} 0%,${T?.b2||"#100410"} 100%)`;
 
   // アプリURL（Vercelデプロイ後にここを変更）
-  const APP_URL = "https://あなたのアプリURL.vercel.app";
+const APP_URL = "https://love-diagnosis-kohl.vercel.app";
 
   const shareText=T?`私の恋愛タイプは「${T.name}」${T.emoji}でした！\n「${gender==="female"?"彼はどのタイプかな？":"彼女はどのタイプかな？"}」\nぜひふたりで診断してみて💕\n\n${APP_URL}\n\n#恋愛診断 #カップル診断 #ラブタイプ診断`:"";
 
