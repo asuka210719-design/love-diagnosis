@@ -745,10 +745,10 @@ const APP_URL = "https://love-diagnosis-kohl.vercel.app";
                 <div style={{fontSize:30,marginBottom:8}}>🔮</div>
                 <h3 style={{fontSize:16,fontWeight:900,margin:"0 0 10px",lineHeight:1.5}}>ふたりの相性、もっと詳しく知りたい？</h3>
                 <p style={{fontSize:13,lineHeight:1.9,color:"rgba(255,255,255,0.8)",margin:"0 0 18px"}}>診断はあくまで傾向まで。<br/>プロの占い師に視てもらうと<br/><b style={{color:T.a}}>本当の縁と未来</b>がわかります。<br/><span style={{fontSize:11,color:"rgba(255,255,255,0.55)"}}>※今だけ初回無料で相談できます</span></p>
-                <a href="https://px.a8.net/svt/ejp?a8mat=4B1DXO+ASS4CI+2PEO+C4LLD" target="_blank" rel="noopener noreferrer" className="cta-btn" style={{display:"block",padding:"17px",background:"linear-gradient(135deg,#ff5a8c,#ff7a5a)",borderRadius:50,color:"#fff",fontSize:15,fontWeight:900,textDecoration:"none",letterSpacing:"0.05em",marginBottom:10,boxShadow:"0 8px 28px rgba(255,90,140,0.5)",transition:"all 0.3s cubic-bezier(0.34,1.56,0.64,1)"}}>
+                <a href="https://note.com/hoshiyomimiko/n/n58906fa707bb" target="_blank" rel="noopener noreferrer" className="cta-btn" style={{display:"block",padding:"17px",background:"linear-gradient(135deg,#ff5a8c,#ff7a5a)",borderRadius:50,color:"#fff",fontSize:15,fontWeight:900,textDecoration:"none",letterSpacing:"0.05em",marginBottom:10,boxShadow:"0 8px 28px rgba(255,90,140,0.5)",transition:"all 0.3s cubic-bezier(0.34,1.56,0.64,1)"}}>
                   💌 初回無料で運命を占ってもらう
                 </a>
-                <a href="https://px.a8.net/svt/ejp?a8mat=4B1DXO+ASS4CI+2PEO+C4LLD" target="_blank" rel="noopener noreferrer" className="cta-btn" style={{display:"block",padding:"14px",background:"rgba(255,255,255,0.1)",border:"1px solid rgba(255,255,255,0.25)",borderRadius:50,color:"#fff",fontSize:14,fontWeight:700,textDecoration:"none",transition:"all 0.3s"}}>
+                <a href="https://note.com/hoshiyomimiko/n/n58906fa707bb" target="_blank" rel="noopener noreferrer" className="cta-btn" style={{display:"block",padding:"14px",background:"rgba(255,255,255,0.1)",border:"1px solid rgba(255,255,255,0.25)",borderRadius:50,color:"#fff",fontSize:14,fontWeight:700,textDecoration:"none",transition:"all 0.3s"}}>
                   💬 チャットで気軽に相談する
                 </a>
               </div>
